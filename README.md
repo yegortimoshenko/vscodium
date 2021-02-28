@@ -2,7 +2,7 @@
     <br />
     <img src="./src/resources/linux/code.png" alt="VSCodium Logo" width="200"/>
     <h1>VSCodium</h1>
-    <h3>Free/Libre Open Source Software Binaries of VSCode</h3>
+    <h3>Free/Libre Open Source Software Binaries of VS Code</h3>
 </div>
 
 <div id="badges" align="center">
